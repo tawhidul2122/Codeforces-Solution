@@ -1,4 +1,0 @@
-this is line 1 in main but changing the exact same line
-this is line 2 so that the coflict arises on which one to keep finally 
-this is line 3
-this is line 4
