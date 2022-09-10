@@ -1,2 +1,2 @@
-Solution to Codeforces Problems in various contests 
+Solution to Codeforces Problems from various contests 
 
